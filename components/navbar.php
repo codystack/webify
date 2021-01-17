@@ -21,12 +21,7 @@
                     </li>
                     <li class="nav-item">
                         <a href="services" class="nav-link">
-                            <span class="nav-link-name">services</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="contact" class="nav-link">
-                            <span class="nav-link-name">contact</span>
+                            <span class="nav-link-name">how it works</span>
                         </a>
                     </li>
                     <li class="nav-item">
@@ -58,6 +53,9 @@
                         </a>
                     </li>-->
                     <a class="d-none d-sm-inline-block btn btn-white btn-with-ball ml-auto mr-40 mr-lg-0 order-2 order-lg-3" href="get-started">Get Started</a>
+                </ul>
+                <ul class="nav nav-gap-sm navbar-nav nav-social align-items-center text-white" style="margin-left: 20px;">
+                    <img src="https://i.imgur.com/vSVsXS0.jpg" class="media-img rounded-circle" alt="" style="width: 30px; height: 30px;">
                 </ul>
             </div>
         </header>

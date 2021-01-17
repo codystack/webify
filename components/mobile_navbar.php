@@ -375,7 +375,7 @@
                                 </li>
                                 <li class="nav-item navbar-collapse">
                                     <a href="#navbarCollapseContact" class="nav-link collapsed" role="button" data-toggle="collapse" aria-expanded="false" aria-controls="navbarCollapseContact">
-                                        <span class="nav-link-name">contact</span>
+                                        <span class="nav-link-name">contacts</span>
                                         <svg class="collapse-icon" width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M1 11L6 6L1 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                                         </svg>
@@ -402,17 +402,13 @@
                     <div class="col-12 col-md-4 col-lg-4 col-xl-3">
                         <div class="navbar-footer">
                             <div class="mb-60 text-white">
-                                <p class="lead mb-17 font-weight-medium">Contact info:</p>
-                                <ul class="list-group borderless font-size-17">
-                                    <li class="list-group-item">Email: <a href="#" class=text-white>hello@themebau.com</a></li>
-                                    <li class="list-group-item">Phone: <a href="#" class=text-white>+44 207 112 82 85</a></li>
-                                </ul>
+                                <a class="d-none d-sm-inline-block btn btn-white ml-auto mr-40 mr-lg-0 order-2 order-lg-3" href="get-started">Get Started</a>
                             </div>
                             <div class="mb-60 text-white">
-                                <p class="lead mb-17 font-weight-medium">Address:</p>
+                                <p class="lead mb-17 font-weight-medium">Contact info:</p>
                                 <ul class="list-group borderless font-size-17">
-                                    <li class="list-group-item">2260 Lady Bug Drive,</li>
-                                    <li class="list-group-item">New York, NY 10011</li>
+                                    <li class="list-group-item">Email: <a href="#" class=text-white>hello@webify.com.ng</a></li>
+                                    <li class="list-group-item">Phone: <a href="#" class=text-white>+234 (0)803-209-0933</a></li>
                                 </ul>
                             </div>
                             <ul class="nav nav-gap-sm navbar-nav nav-social align-items-center mt-n10 text-white">
@@ -437,6 +433,9 @@
                                         </svg>
                                     </a>
                                 </li>
+                                <ul class="nav nav-gap-sm nav-social align-items-center text-white" style="margin-left: 10px;">
+                                    <img src="https://i.imgur.com/vSVsXS0.jpg" class="media-img rounded-circle" alt="" style="width: 30px; height: 30px;">
+                                </ul>
                             </ul>
                         </div>
                     </div>

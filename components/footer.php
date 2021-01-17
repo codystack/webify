@@ -108,6 +108,9 @@
                                     </svg>
                                 </a>
                             </li>
+                            <ul class="nav nav-gap-sm nav-social align-items-center text-white" style="margin-left: 10px;">
+                                <img src="https://i.imgur.com/vSVsXS0.jpg" class="media-img rounded-circle" alt="" style="width: 30px; height: 30px;">
+                            </ul>
                         </ul>
                     </div>
                     <div class="col-auto">
