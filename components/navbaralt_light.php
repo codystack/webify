@@ -1,7 +1,7 @@
-<header class="navbar navbar-top navbar-expand-lg navbar-dark navbar-fixed">
+<header class="navbar navbar-top navbar-expand-lg navbar-light navbar-fixed">
     <div class="container">
         <a class="navbar-brand" href="\">
-            <img width="167" src="assets/images/logo-white.png" alt="">
+            <img width="167" src="assets/images/logo-black.png" alt="">
         </a>
         <a class="navbar-toggle p-2" href="#navbar-mobile-style-2" data-fancybox data-base-class="fancybox-navbar" data-keyboard="false" data-auto-focus="false" data-touch="false" data-close-existing="true" data-small-btn="false" data-toolbar="false">
             <span></span>
@@ -52,7 +52,7 @@
                     </svg>
                 </a>
             </li>-->
-            <a class="d-none d-sm-inline-block btn btn-white btn-with-ball ml-auto mr-40 mr-lg-0 order-2 order-lg-3" href="get-started">Get Started</a>
+            <a class="d-none d-sm-inline-block btn btn-dark btn-with-ball ml-auto mr-40 mr-lg-0 order-2 order-lg-3" href="get-started">Get Started</a>
         </ul>
         <ul class="nav nav-gap-sm navbar-nav nav-social align-items-center text-white" style="margin-left: 20px;">
             <img src="https://i.imgur.com/vSVsXS0.jpg" class="media-img rounded-circle" alt="" style="width: 30px; height: 30px;">

@@ -1,13 +1,13 @@
-<div class="navbar navbar-mobile navbar-mobile-style-2 navbar-dark" id="navbar-mobile-style-2">
+<div class="navbar navbar-mobile navbar-mobile-style-2" id="navbar-mobile-style-2">
             <div class="shape justify-content-end">
                 <svg data-rellax-speed="0" width="544" height="362" viewBox="0 0 544 362" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <circle cx="320.5" cy="41.5" r="320.5" fill=" #202020" />
+                    <circle cx="320.5" cy="41.5" r="320.5" fill="#ececec" />
                 </svg>
             </div>
             <div class="navbar-head">
                 <div class="container">
-                    <a class="navbar-brand" href="\">
-                        <img width="167" src="assets/images/logo-white.png" alt="">
+                    <a class="navbar-brand" href="home.html">
+                    <img width="167" src="assets/images/logo-black.png" alt="">
                     </a>
                     <a class="navbar-toggle" href="#" data-fancybox-close>
                         <span></span>
@@ -57,11 +57,11 @@
                     <div class="col-md-1 d-none d-md-block"></div>
                     <div class="col-12 col-md-4 col-lg-4 col-xl-3">
                         <div class="navbar-footer">
-                            <div class="mb-60 text-white">
+                            <div class="mb-60">
                                 <p class="lead mb-17 font-weight-medium">Contact info:</p>
                                 <ul class="list-group borderless font-size-17">
-                                    <li class="list-group-item"><strong>Email:</strong> <a href="#" class="text-white">hello@webify.com.ng</a></li>
-                                    <li class="list-group-item"><strong>Phone:</strong> <a href="#" class="text-white">+234 (0)803-209-0933</a></li>
+                                    <li class="list-group-item"><strong>Email:</strong> <a href="#">hello@webify.com.ng</a></li>
+                                    <li class="list-group-item"><strong>Phone:</strong> <a href="#">+234 (0)803-209-0933</a></li>
                                 </ul>
                             </div>
                             <ul class="nav nav-gap-sm navbar-nav nav-social align-items-center mt-n10">

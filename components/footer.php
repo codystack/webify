@@ -41,7 +41,7 @@
                             <div class="col-12 col-lg-4">
                                 <ul class="nav flex-column text-white">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">About us</a>
+                                        <a href="about" class="nav-link">About</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">Services</a>
@@ -50,14 +50,14 @@
                                         <a href="#" class="nav-link">Our team</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Careers</a>
+                                        <a href="customize" class="nav-link">Custom project</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-12 col-lg-4">
                                 <ul class="nav flex-column text-white">
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Work process</a>
+                                        <a href="how-it-works" class="nav-link">How it works</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#" class="nav-link">FAQ</a>
@@ -66,7 +66,7 @@
                                         <a href="#" class="nav-link">Our blog</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">Contacts</a>
+                                        <a href="contact" class="nav-link">Contact</a>
                                     </li>
                                 </ul>
                             </div>
