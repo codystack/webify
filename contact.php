@@ -25,7 +25,7 @@ include ('./components/mobile_navbar2.php');
                                 <p class="lead mb-17 font-weight-medium">Hours of Operation:</p>
                                 <ul class="list-group borderless font-size-17">
                                     <li class="list-group-item">Monday - Friday</li>
-                                    <li class="list-group-item">10:00 am - 7:30 pm</li>
+                                    <li class="list-group-item">9:00 am - 4:00 pm</li>
                                 </ul>
                             </div>
                         </div>
@@ -46,13 +46,12 @@ include ('./components/mobile_navbar2.php');
                                     </div>
                                     <div class="col-12 col-md-6 show-on-scroll" data-show-duration="400" data-show-distance="10" data-show-delay="300">
                                         <select class="form-control">
-                                            <option selected>Type of Project</option>
-                                            <option>Colibri Creative Project</option>
-                                            <option>Colibri Project</option>
-                                            <option>Happy Moments Photoset</option>
-                                            <option>Luxury Car Website</option>
-                                            <option>Funny Dog</option>
-                                            <option>Creative Branding</option>
+                                            <option selected>Purpose</option>
+                                            <option>Complain</option>
+                                            <option>New Project</option>
+                                            <option>Account</option>
+                                            <option>Customer Service</option>
+                                            <option>Renewal</option>
                                         </select>
                                     </div>
                                     <div class="col-12 col-md-6 show-on-scroll" data-show-duration="400" data-show-distance="10" data-show-delay="350">

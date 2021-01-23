@@ -1,3 +1,7 @@
+<meta
+ http-equiv="refresh"
+ content="0; URL='coming-soon'"
+/>
 <?php
 $page = 'home';
 include ('./components/header.php');
