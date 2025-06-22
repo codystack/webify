@@ -1,28 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
-    
 <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Webify&trade; :: Brand Identity, User Experience Design, App Development &amp; Web Development</title>
-        <meta property="og:locale" content="en_US" />
-        <meta property="og:url" content="https://webify.com.ng/"/>
-        <meta property="og:site_name" content="Webify" />
-	    <meta property="og:type" content="website" />
-        <meta property="og:title" content="TG&trade; :: Web + App Developer, UI/UX Designer, Product Designer & Graphic Designer." />
-        <meta name="og:description" content="Webify is a digital/branding agency that collaborates with brands to increase their value and impact through branding, user interface and experience design, app development and web development.">
-        <meta name="keywords" content="Creative Agency,Lagos,Nigeria,Port Harcourt,Website Development,Application Development,Software Development,Build Website,Wordpress,Software,Developer,Development,Programmer,Programming,Coder,Coding,Blogger,Blogging,Digital,Creator,Creation,Graphic Designer,Product Designer,Product,Graphics,Branding,Lekki,Abuja,Bootstrap,Angular,Vue,Frontend,Front-end,UX,UI,UI/UX">
-        <meta property="og:image" content="https://i.imgur.com/uIvHnMQ.jpg">
-        <link rel="icon" type="image/png" href="https://i.imgur.com/ZqEiVRm.png">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <!-- Google Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="assets/vendor/swiper/dist/css/swiper.min.css" />
-        <link rel="stylesheet" href="assets/vendor/fancybox/dist/jquery.fancybox.min.css" />
-        <link rel="stylesheet" href="assets/css/themebau.min.css">
-        <link rel="stylesheet" href="assets/css/custom.css">
-        <!-- END: Styles -->
-        <!-- jQuery -->
-        <script src="assets/vendor/jquery/dist/jquery.min.js"></script>
-    </head>
-    <body>
+	<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WTPQ89D3V9"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-WTPQ89D3V9');
+    </script>
+    
+    <meta name="keywords" content="Mobile App Development, Sotware Engineering, Webify, Webifyng, Shopify, Wix, Vercel, Squarespace, Webflow, Creative Agency, Lagos, Nigeria, Port Harcourt, Website Development, Application Development, Software Development, Build Website, Wordpress, Software, Developer, Development, Programmer, Programming, Coder, Coding, Blogger, Blogging, Digital, Creator, Creation, Graphic Designer, Product Designer, Product, Graphics, Branding, Lekki, Abuja, Bootstrap, Angular, Vue, Frontend, Front-end, UX, UI, UI/UX">
+    <meta name="description" content="We are a boutique digital transformation, consultancy and software development company that focuses on building world-class products, providing excellent services using technology to inspire and implement solutions to enable businesses. We maximize our ability to take on any project by creating a diverse team who can bring their experience and perspectives together to solve problems.">
+    <meta name="author" content="Webify">
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="https://webify.com.ng/"/>
+    <meta property="og:site_name" content="Webify" />
+	<meta property="og:type" content="website" />
+    <meta property="og:title" content="Webify&trade; :: Brand Identity, User Experience Design, App Development & Web Development" />
+    <meta name="og:description" content="We are a boutique digital transformation, consultancy and software development company that focuses on building world-class products, providing excellent services using technology to inspire and implement solutions to enable businesses. We maximize our ability to take on any project by creating a diverse team who can bring their experience and perspectives together to solve problems." />
+
+    <title>Webify&trade; :: Brand Identity, User Experience Design, App Development & Web Development</title>
+    
+    <meta charset="UTF-8" />    
+    <link rel="icon" type="image/ico" href="assets/images/favicon.png" />
+
+    <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="assets/css/all.min.css" rel="stylesheet" />
+    <link href="assets/css/assets.css" rel="stylesheet" />
+    <link href="assets/css/content.css" rel="stylesheet" />
+    <link href="assets/css/shortcodes.css" rel="stylesheet" />
+    <link href="assets/css/showcase.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Six+Caps&amp;display=swap" rel="stylesheet"> 
+   
+</head>
+
+
+<body class="hidden hidden-ball smooth-scroll rounded-borders" data-primary-color="#8c6144">
+
+	
+	<main>		
+        <!-- Preloader -->
+        <div class="preloader-wrap" data-centerLine="Loading">
+            <div class="outer">
+                <div class="inner">                    
+                    <div class="trackbar">
+                    	<div class="preloader-intro">
+                        	<span>Loading</span>
+                        </div>
+                        <div class="loadbar"></div>
+                        <div class="percentage-wrapper"><div class="percentage" id="precent"></div></div>
+                    </div>
+                    
+                    <div class="percentage-intro">Please wait, content is loading</div>                     
+                </div>
+            </div>
+        </div>
+        <!--/Preloader -->     
+        
+        <div class="cd-index cd-main-content">
