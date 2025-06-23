@@ -1,7 +1,7 @@
-@import url("css/content.css");
-@import url("css/showcase.css");
-@import url("css/shortcodes.css");
-@import url("css/assets.css");
+@import url("assets/css/content.css");
+@import url("assets/css/showcase.css");
+@import url("assets/css/shortcodes.css");
+@import url("assets/css/assets.css");
 
 	html,body{
 		font-family: 'Poppins', sans-serif;
@@ -307,6 +307,7 @@
 	
 	.light-content .light-section li {
 		color: #444;
+		border: 1px solid rgb(0 0 0 / 25%);
 	}
 	
 	figure {

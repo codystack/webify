@@ -1,6 +1,4 @@
-<?php
-include "./components/header.php";
-?>
+<?php include "./components/header.php"; ?>
     
         <!-- Page Content -->
         <div id="clapat-page-content" class="light-content" data-bgcolor="#0c0c0c">

@@ -1,6 +1,4 @@
-<?php
-include "./components/header.php";
-?>
+<?php include "./components/header.php"; ?>
     
         <div id="clapat-page-content" class="light-content" data-bgcolor="#0c0c0c">
 
@@ -18,11 +16,13 @@ include "./components/header.php";
                                     <div class="hero-subtitle caption-timeline">
                                         <span>We are dedicated to rethinking how brands are experienced by <br class="destroy">bringing strategies and stories to life in unconventional ways <br class="destroy">backed by design thinking and innovation.</span>
                                     </div>
-                                    <div class="button-box" style="margin-top: 40px">             
-                                        <div class="clapat-button-wrap parallax-wrap link">
+                                    <div class="button-box has-animation" data-delay="100" style="margin-top: 40px">             
+                                        <div class="clapat-button-wrap parallax-wrap hide-ball">
                                             <div class="clapat-button parallax-element">
-                                                <div class="button-border rounded outline" style="padding-left: 20px;padding-right: 20px;">
-                                                    <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/webifyng/start-a-project'});return false;">Book a Free Consultation</a>
+                                                <div class="button-border outline parallax-element-second">
+                                                    <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/webifyng/start-a-project'});return false;">
+                                                        <span data-hover="Book a Free Consultation">Book a Free Consultation</span>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div> 

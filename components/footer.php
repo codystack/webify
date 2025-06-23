@@ -12,7 +12,7 @@
                         </div>
                         
                         <div class="footer-middle">
-                            <div class="copyright">2014 - <script>document.write(new Date().getFullYear());</script> © Webify. All rights reserved.</div>
+                            <div class="copyright"><script>document.write(new Date().getFullYear());</script> © Webify. All rights reserved.</div>
                         </div>
                         
                         <div class="socials-wrap">            	
@@ -64,7 +64,6 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/smooth-scrollbar/8.4.0/smooth-scrollbar.js'></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDODKndJ8udk9xrwV_9KZwzziQOgsAR3Ew&amp;sensor=false"></script>
     
     <script src="assets/js/clapat.js"></script>
 	<script src="assets/js/plugins.js"></script>

@@ -1312,18 +1312,18 @@
 		display:flex;
 		justify-content:space-between;
 		flex-wrap: wrap;
-		background-image:url("../images/clients-middle.png");
+		/* background-image:url("../images/clients-middle.png"); */
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: contain;
 	}
 	
 	.light-content .clients-table, .dark-section .clients-table {
-		background-image:url("../images/clients-middle-white.png");
+		/* background-image:url("../images/clients-middle-white.png"); */
 	}
 	
 	.light-content .light-section .clients-table {
-		background-image:url("../images/clients-middle.png");
+		/* background-image:url("../images/clients-middle.png"); */
 	}
 	
 	.clients-table::before {
@@ -1333,18 +1333,18 @@
 		height: 20px;
 		top: 0;
 		left: 0;
-		background-image:url("../images/clients-top.png");
+		/* background-image:url("../images/clients-top.png"); */
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: contain;
 	}
 	
 	.light-content .clients-table::before, .dark-section .clients-table::before {
-		background-image:url("../images/clients-top-white.png");
+		/* background-image:url("../images/clients-top-white.png"); */
 	}
 	
 	.light-content .light-section .clients-table::before {
-		background-image:url("../images/clients-top.png");
+		/* background-image:url("../images/clients-top.png"); */
 	}
 
 	.clients-table::after {
@@ -1354,18 +1354,18 @@
 		height: 20px;
 		bottom: 0;
 		left: 0;
-		background-image:url("../images/clients-bottom.png");
+		/* background-image:url("../images/clients-bottom.png"); */
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: contain;
 	}
 	
 	.light-content .clients-table::after, .dark-section .clients-table::after {
-		background-image:url("../images/clients-bottom-white.png");
+		/* background-image:url("../images/clients-bottom-white.png"); */
 	}
 	
 	.light-content .light-section .clients-table::after {
-		background-image:url("../images/clients-bottom.png");
+		/* background-image:url("../images/clients-bottom.png"); */
 	}
 	
 	.clients-table li {
@@ -1382,14 +1382,14 @@
 	}
 	
 	.clients-table li img {
-		width:100%;
+		width:70%;
 		height: 100%;
 		margin:0 auto;
-		opacity:0.6;
+		/* opacity:0.6; */
 		position:relative;
 		display:block;
 		object-position: center; 
-		object-fit: cover;
+		object-fit: contain;
 		transition: all 0.2s ease 0s;
 		-webkit-transition: all 0.2s ease 0s;
 	}

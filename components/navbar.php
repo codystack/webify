@@ -27,21 +27,14 @@
                                         </a>
                                     </li>
                                     <li class="link menu-timeline">
-                                        <a class="ajax-link" data-type="page-transition" href="about.html">
+                                        <a class="ajax-link" data-type="page-transition" href="about">
                                             <div class="before-span">
                                                 <span data-hover="Our studio">Our studio</span>
                                             </div>
                                         </a>
                                     </li>
                                     <li class="link menu-timeline">
-                                        <a class="ajax-link" data-type="page-transition" href="about.html">
-                                            <div class="before-span">
-                                                <span data-hover="Services">Services</span>
-                                            </div>
-                                        </a>
-                                    </li>
-                                    <li class="link menu-timeline">
-                                        <a class="ajax-link" data-type="page-transition" href="contact.html">
+                                        <a class="ajax-link" data-type="page-transition" href="clients">
                                             <div class="before-span">
                                                 <span data-hover="Clients">Clients</span>
                                             </div>
@@ -59,10 +52,7 @@
                         </div> 
                     </div>          
                 </nav>
-                <!--/Navigation -->
                 
-                
-                <!-- Menu Burger -->
                 <div class="button-wrap right menu burger-lines">
                     <div class="icon-wrap parallax-wrap">
                         <div class="button-icon parallax-element">
@@ -77,8 +67,6 @@
                     </div>
                     <div class="button-text sticky right"><span data-hover="Menu">Menu</span></div> 
                 </div>
-                <!--/Menu Burger -->
             
                 </div>
             </header>
-            <!--/Header -->
