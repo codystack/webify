@@ -16,10 +16,10 @@
     <title>Webify&trade; :: Brand Identity, User Experience Design, App Development & Web Development</title>
     
     <meta charset="UTF-8" />    
-    <link rel="icon" type="image/ico" href="assets/images/favicon.png" />
+    <link rel="icon" type="image/ico" href="../assets/images/favicon.png" />
 
-    <link href="assets/css/style.css" rel="stylesheet" />
-    <link href="assets/css/all.min.css" rel="stylesheet" />
+    <link href="../assets/css/style.css" rel="stylesheet" />
+    <link href="../assets/css/all.min.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css2?family=Six+Caps&amp;display=swap" rel="stylesheet"> 
    

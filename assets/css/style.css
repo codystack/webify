@@ -1,7 +1,7 @@
-@import url("assets/css/content.css");
-@import url("assets/css/showcase.css");
-@import url("assets/css/shortcodes.css");
-@import url("assets/css/assets.css");
+@import url("content.css");
+@import url("showcase.css");
+@import url("shortcodes.css");
+@import url("assets.css");
 
 	html,body{
 		font-family: 'Poppins', sans-serif;
@@ -1407,7 +1407,7 @@
 	@keyframes rotating {
       0% {
 		-webkit-transform: translate(-14px, -14px)rotate(0deg);
-		transform:  translate(-14px, -14px)) rotate(0deg);
+		transform:  translate(-14px, -14px) rotate(0deg);
       }
 	  
 	  95% {

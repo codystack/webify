@@ -94,7 +94,7 @@
                                 <div class="page-nav-caption content-full-width text-align-center height-title">                                 
                                     <div class="inner">
                                     	<div class="next-hero-subtitle caption-timeline"><span>INTERESTED TO DISCOVER MORE FROM OUR WORKS?</span></div>
-                                        <a class="page-title next-ajax-link-page" data-type="page-transition" data-centerline="GO TO" href="portfolio">
+                                        <a class="page-title next-ajax-link-page" data-type="page-transition" data-centerline="GO TO" href="projects">
                                             <div class="next-hero-title primary-font-title caption-timeline"><span>Projects</span></div>
                                         </a>                                        
                                     </div>               

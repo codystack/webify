@@ -1,18 +1,13 @@
 <?php include "./components/header.php"; ?>
     
-        <!-- Page Content -->
         <div id="clapat-page-content" class="light-content" data-bgcolor="#0c0c0c">
             
             <?php include "./components/navbar.php"; ?>
             
-            <!-- Content Scroll -->
             <div id="content-scroll">
             
-            
-                <!-- Main -->
                 <div id="main">
                 
-                    <!-- Hero Section -->
                     <div id="hero">
                         <div id="hero-styles">
                             <div id="hero-caption" class="content-full-width parallax-scroll-caption text-align-center height-title">
@@ -40,16 +35,13 @@
                                 </div>
                             </div>                                  
                         </div>
-                    </div>                      
-                    <!--/Hero Section -->
-                    
-                    
-                    <!-- Main Content -->
+                    </div>
+
+
                     <div id="main-content">
-                        <!-- Main Page Content -->
+                        
                         <div id="main-page-content" class="content-full-width">                            
                             
-                            <!-- Row -->
                             <div class="content-row full text-align-center row_padding_left row_padding_right dark-section" data-bgcolor="#0c0c0c">
                                 
                                 <div id="itemsWrapperLinks">                               
@@ -60,48 +52,31 @@
                                             <div class="overlapping-image">
                                                 <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
                                                     <div class="img-mask">
-                                                        <a class="slide-link" data-type="page-transition" href="project01.html"></a>
+                                                        <a class="slide-link" data-type="page-transition" href="portfolio/ekodirect"></a>
                                                         <div class="section-image trigger-item-link">
-                                                            <img src="assets/images/01hero.jpg" class="item-image grid__item-img" alt="">
+                                                            <img src="assets/images/hero/ekodirect-hero.jpg" class="item-image grid__item-img" alt="">
                                                         </div>                                                
-                                                        <img src="assets/images/01hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                        <img src="assets/images/hero/ekodirect-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                     </div>
                                                     <div class="slide-caption trigger-item-link-secondary">
-                                                        <div class="slide-title primary-font-title"><span>White Liners</span></div>
-                                                        <div class="slide-date"><span>2024</span></div>
-                                                        <div class="slide-cat"><span>Photography</span></div>                                           
+                                                        <div class="slide-title primary-font-title"><span>EkóDirect</span></div>
+                                                        <div class="slide-date"><span>2025</span></div>
+                                                        <div class="slide-cat"><span>Web Development</span></div>                                           
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div class="overlapping-image">
                                                 <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
                                                     <div class="img-mask">
-                                                        <a class="slide-link" data-type="page-transition" href="project02.html"></a>
+                                                        <a class="slide-link" data-type="page-transition" href="portfolio/eskrow"></a>
                                                         <div class="section-image trigger-item-link">
-                                                            <img src="assets/images/02hero.jpg" class="item-image grid__item-img" alt="">
+                                                            <img src="assets/images/hero/eskrow-hero.jpg" class="item-image grid__item-img" alt="">
                                                         </div>                                                
-                                                        <img src="assets/images/02hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                        <img src="assets/images/hero/eskrow-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                     </div>
                                                     <div class="slide-caption trigger-item-link-secondary">
-                                                        <div class="slide-title primary-font-title"><span>Green Audio</span></div>                                                    
-                                                        <div class="slide-date"><span>2024</span></div>
-                                                        <div class="slide-cat"><span>Photography</span></div>                                      
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            
-                                            <div class="overlapping-image">
-                                                <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
-                                                    <div class="img-mask">
-                                                        <a class="slide-link" data-type="page-transition" href="project03.html"></a>
-                                                        <div class="section-image trigger-item-link">
-                                                            <img src="assets/images/03hero.jpg" class="item-image grid__item-img" alt="">
-                                                        </div>                                                
-                                                        <img src="assets/images/03hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
-                                                    </div>
-                                                    <div class="slide-caption trigger-item-link-secondary">
-                                                        <div class="slide-title primary-font-title"><span>Nanotech</span></div>                                                    
+                                                        <div class="slide-title primary-font-title"><span>Eskrow</span></div>
                                                         <div class="slide-date"><span>2024</span></div>
                                                         <div class="slide-cat"><span>Branding</span></div>                                           
                                                     </div>
@@ -109,23 +84,18 @@
                                             </div>
                                             
                                             <div class="overlapping-image">
-                                                <div class="overlapping-image-inner trigger-item change-header" data-centerLine="OPEN">                                                    
+                                                <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
                                                     <div class="img-mask">
-                                                        <a class="slide-link" data-type="page-transition" href="project04.html"></a>
+                                                        <a class="slide-link" data-type="page-transition" href="portfolio/billbuddy"></a>
                                                         <div class="section-image trigger-item-link">
-                                                            <img src="assets/images/04hero.jpg" class="item-image grid__item-img" alt="">
-                                                            <div class="hero-video-wrapper">
-                                                                <video loop muted class="bgvid">
-                                                                    <source src="http://clapat.ro/themes/montoya/assets/images/04hero.mp4" type="video/mp4">
-                                                                </video>
-                                                            </div>
+                                                            <img src="assets/images/hero/billbuddy-hero.jpg" class="item-image grid__item-img" alt="">
                                                         </div>                                                
-                                                        <img src="assets/images/04hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                        <img src="assets/images/hero/billbuddy-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                     </div>
                                                     <div class="slide-caption trigger-item-link-secondary">
-                                                        <div class="slide-title primary-font-title"><span>Cool Dude</span></div>
+                                                        <div class="slide-title primary-font-title"><span>BillBuddy</span></div>                                                    
                                                         <div class="slide-date"><span>2024</span></div>
-                                                        <div class="slide-cat"><span>Video Production</span></div>                                         
+                                                        <div class="slide-cat"><span>Branding | Web & Mobile App</span></div>                                      
                                                     </div>
                                                 </div>
                                             </div>
@@ -133,16 +103,67 @@
                                             <div class="overlapping-image">
                                                 <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
                                                     <div class="img-mask">
-                                                        <a class="slide-link" data-type="page-transition" href="project05.html"></a>
+                                                        <a class="slide-link" data-type="page-transition" href="portfolio/skinicon"></a>
                                                         <div class="section-image trigger-item-link">
-                                                            <img src="assets/images/05hero.jpg" class="item-image grid__item-img" alt="">
+                                                            <img src="assets/images/hero/skinicon-hero.jpg" class="item-image grid__item-img" alt="">
                                                         </div>                                                
-                                                        <img src="assets/images/05hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                        <img src="assets/images/hero/skinicon-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                     </div>
                                                     <div class="slide-caption trigger-item-link-secondary">
-                                                        <div class="slide-title primary-font-title"><span>Sphere Digital</span></div>                                                    
+                                                        <div class="slide-title primary-font-title"><span>Skin Icon</span></div>                                                    
                                                         <div class="slide-date"><span>2024</span></div>
-                                                        <div class="slide-cat"><span>Graphic Design</span></div>                                           
+                                                        <div class="slide-cat"><span>Branding | Web Dvelopment</span></div>                                           
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="overlapping-image">
+                                                <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
+                                                    <div class="img-mask">
+                                                        <a class="slide-link" data-type="page-transition" href="portfolio/pixpectiv"></a>
+                                                        <div class="section-image trigger-item-link">
+                                                            <img src="assets/images/hero/pixpectiv-hero.jpg" class="item-image grid__item-img" alt="">
+                                                        </div>                                                
+                                                        <img src="assets/images/hero/pixpectiv-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                    </div>
+                                                    <div class="slide-caption trigger-item-link-secondary">
+                                                        <div class="slide-title primary-font-title"><span>Pixpectiv</span></div>                                                    
+                                                        <div class="slide-date"><span>2024</span></div>
+                                                        <div class="slide-cat"><span>Web Development</span></div>                                           
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="overlapping-image">
+                                                <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
+                                                    <div class="img-mask">
+                                                        <a class="slide-link" data-type="page-transition" href="portfolio/phfw"></a>
+                                                        <div class="section-image trigger-item-link">
+                                                            <img src="assets/images/hero/phfw-hero.jpg" class="item-image grid__item-img" alt="">
+                                                        </div>                                                
+                                                        <img src="assets/images/hero/phfw-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                    </div>
+                                                    <div class="slide-caption trigger-item-link-secondary">
+                                                        <div class="slide-title primary-font-title"><span>PH Fashion Week</span></div>                                                    
+                                                        <div class="slide-date"><span>2022</span></div>
+                                                        <div class="slide-cat"><span>Web Development</span></div>                                           
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="overlapping-image">
+                                                <div class="overlapping-image-inner trigger-item" data-centerLine="OPEN">                                                    
+                                                    <div class="img-mask">
+                                                        <a class="slide-link" data-type="page-transition" href="portfolio/glajoe"></a>
+                                                        <div class="section-image trigger-item-link">
+                                                            <img src="assets/images/hero/glajoe-hero.jpg" class="item-image grid__item-img" alt="">
+                                                        </div>                                                
+                                                        <img src="assets/images/hero/glajoe-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                    </div>
+                                                    <div class="slide-caption trigger-item-link-secondary">
+                                                        <div class="slide-title primary-font-title"><span>Glajoe</span></div>                                                    
+                                                        <div class="slide-date"><span>2020</span></div>
+                                                        <div class="slide-cat"><span>Web Development</span></div>                                           
                                                     </div>
                                                 </div>
                                             </div>
@@ -155,16 +176,20 @@
                                 <hr>
                                 
                                 <p>
-                                    <span class="has-opacity">CRAFTING WEBSITES WHERE THE ELEGANCE</span>
-                                    <br class="destroy">
-                                    <span class="has-opacity">OF DESIGN INTERSECTS WITH THE SCIENCE OF SELLING PRODUCTS.</span>
+                                    <span class="has-opacity">We bring brands to life through creative solutions</span>
+                                        <br class="destroy">
+                                    <span>that are both effective and innovative</span>
+                                        <br class="destroy">
+                                    <span>setting visual, verbal, and experiential standards</span>
+                                        <br class="destroy">
+                                    <span>that drive impactful experiences.</span>
                                 </p>
                                                               
                                 <div class="button-box text-align-center has-animation fadeout-element">             
                                     <div class="clapat-button-wrap parallax-wrap hide-ball">
                                         <div class="clapat-button parallax-element">
                                             <div class="button-border outline rounded parallax-element-second">
-                                                <a class="ajax-link" href="index-showcase-grid.html" data-type="page-transition">
+                                                <a class="ajax-link" href="projects" data-type="page-transition">
                                                     <span data-hover="See All Works">See All Works</span>
                                                  </a>
                                              </div>
@@ -172,12 +197,9 @@
                                     </div> 
                                 </div>
                                  
-                                
-                            </div> 
-                            <!--/Row -->
-                            
-                            
-                            <!-- Row -->
+                            </div>
+
+
                             <div class="content-row full row_padding_left row_padding_right dark-section fadeout-element" data-bgcolor="#0c0c0c">
                             
                                 <div class="list-rotator-wrapper">                                
@@ -195,87 +217,26 @@
                                     </div>                            
                                 </div>
                                 
-                            </div> 
-                            <!--/Row -->
-                            
-                            
-                            <!-- Row -->
-                            <div class="content-row dark-section text-align-center" data-bgcolor="#0c0c0c">
-                           
-                           		<div class="one_third has-animation"  data-delay="100">
-                                    
-                                    <div class="box-icon-wrapper block-boxes">
-                                        <div class="box-icon">
-                                            <i class="fa fa-paper-plane fa-2x" aria-hidden="true"></i>
-                                        </div>
-                                    	<div class="box-icon-content">
-                                            <h6 class="no-margins"><a href="mailto:office@montoya.com" class="link"><span>office@montoya.com</span></a></h6>
-                                            <p>Email</p>
-                                        </div>
-                                    </div> 
-                                                           
-                                </div>
-                                
-                                <div class="one_third has-animation"  data-delay="200">
-                                    
-                                    <div class="box-icon-wrapper block-boxes">
-                                        <div class="box-icon">
-                                            <i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
-                                        </div>
-                                    	<div class="box-icon-content">
-                                            <h6 class="no-margins">35 M Str, New York, USA</h6>
-                                            <p>Address</p>
-                                        </div>
-                                    </div>
-                                                            
-                                </div>
-                                
-                                <div class=" one_third last has-animation"  data-delay="300">
-                                    
-                                    <div class="box-icon-wrapper block-boxes">
-                                        <div class="box-icon">
-                                            <i class="fa fa-phone fa-2x" aria-hidden="true"></i>
-                                        </div>
-                                    	<div class="box-icon-content">
-                                            <h6 class="no-margins">0040 (7763) 574-8901</h6>
-                                            <p>Phone</p>
-                                        </div>
-                                    </div>
-                                    
-                                </div> 
-                                                       
-                           </div> 
-                           <!--/Row -->
-                            
-                            
-                            
+                            </div>
                         
                         </div>
-                        <!--/Main Page Content -->
                         
-                        
-                        <!-- Page Navigation --> 
                         <div id="page-nav">
                             <div class="page-nav-wrap">
                                 <div class="page-nav-caption content-full-width text-align-center height-title">                                 
                                     <div class="inner">
                                     	<div class="next-hero-subtitle caption-timeline"><span>EXPLORING OUR WORLD OF VISUAL AND INTERACTIVE DESIGN</span></div>
-                                        <a class="page-title next-ajax-link-page" data-type="page-transition" data-centerline="ABOUT US" href="about.html">
+                                        <a class="page-title next-ajax-link-page" data-type="page-transition" data-centerline="ABOUT US" href="about">
                                             <div class="next-hero-title primary-font-title caption-timeline"><span>Our Studio</span></div>
                                         </a>                                        
                                     </div>               
                                 </div>
                             </div>
-                        </div>      
-                        <!--/Page Navigation -->
-                        
+                        </div>
                                 
                     </div>
-                    <!--/Main Content --> 
                 
                 </div>
-                <!--/Main -->
-                
                 
             
 <?php include "./components/footer.php"; ?>
