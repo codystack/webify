@@ -59,9 +59,9 @@
 
                             <div class="content-row small row_padding_top light-section text-align-center" data-bgcolor="#fff">
                             
-                                <h1 class="primary-font-title has-mask-fill">Our Solution</h1>
+                                <h1 class="primary-font-title has-mask-fill">The Challenge</h1>
                                 <p>
-                                    Webify partnered closely with EkoDirect to design and develop a multi-platform solution that brings together a suite of lifestyle services under one digital roof. From brand identity to platform architecture, our team delivered a scalable ecosystem that offers seamless user experiences across web and mobile.
+                                   In a space often cluttered by poor design, hidden fees, and fragmented user journeys, we needed to position BillBuddy as the go-to financial companion — fast, transparent, and trustworthy. The experience had to be seamless for beginners yet powerful enough for experienced users.
                                 </p>
                                 
                                 <hr><hr>
@@ -69,17 +69,58 @@
                             </div>
 
 
+                            <div class="content-row light-section row_padding_bottom change-header-color text-align-center" data-bgcolor="#fff">
+                                
+                                <div class="reveal-gallery">
+                                    <div class="reveal-img">
+                                        <img src="../assets/images/projects/billbuddy/app3.jpg">
+                                    </div>
+                                    <div class="reveal-img-fixed">
+                                        <img src="../assets/images/projects/billbuddy/app1.jpg">
+                                    </div>
+                                    <div class="reveal-img">
+                                        <img src="../assets/images/projects/billbuddy/app2.jpg">
+                                    </div>
+                                </div>
+                                
+                            </div>
+
+
+                            <div class="content-row small row_padding_bottom light-section" data-bgcolor="#fff">
+                                <h1 class="primary-font-title has-mask-fill">Our Solution</h1>
+                                <p>
+                                    <hr>
+                                    <h5>1. Brand Identity & Messaging</h5>
+                                    <b>Logo Design:</b> A bold and modern mark representing fluid, safe transactions.<br />
+                                    <b>Color Palette:</b> A mix of calming blues and vibrant greens — symbolizing trust and financial growth.<br />
+                                    <b>Messaging:</b> We crafted clear, inviting copy that reinforces BillBuddy’s value: “Trade smart. Pay easy. No stress, no surprises.”<br />
+                                    <hr>
+                                    <h5>2. Product Design & UX Strategy</h5>
+                                    We mapped out every user flow — from trading crypto and selling gift cards to paying DSTV or funding betting wallets. Our goal: eliminate confusion and friction.<br />
+                                    <b>Wireframes & UI Design:</b> Clean interfaces with intuitive navigation and crisp iconography.<br />
+                                    <b>Mobile-First Approach:</b> Ensured accessibility and consistency across devices.<br />
+                                    <b>Admin Dashboard:</b> Tools for transaction monitoring, KYC handling, and customer service.<br />
+                                    <hr>
+                                    <h5>3. Development</h5>
+                                    We built a fully functional web and mobile platform with seamless payment integrations and real-time transaction updates.
+                                </p>
+                            </div> 
+
+
                             <div class="content-row text-align-center light-section change-header-color" data-bgcolor="#fff">
                                 
                                 <div class="pinned-gallery">
                                     <div class="pinned-image">
-                                        <img src="../assets/images/projects/ekodirect/eko01.jpg" alt="Image Title">
+                                        <img src="../assets/images/projects/billbuddy/web1.png" alt="Image Title">
                                     </div>
                                     <div class="pinned-image">
-                                        <img src="../assets/images/projects/ekodirect/eko02.jpg" alt="Image Title">
+                                        <img src="../assets/images/projects/billbuddy/web2.png" alt="Image Title">
                                     </div>
                                     <div class="pinned-image">
-                                        <img src="../assets/images/projects/ekodirect/eko03.jpg" alt="Image Title">
+                                        <img src="../assets/images/projects/billbuddy/web3.png" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/billbuddy/web4.png" alt="Image Title">
                                     </div>
                                 </div>
                                 
@@ -90,9 +131,9 @@
                                 
                                 <hr><hr>
                                 
-                                <h1 class="primary-font-title has-mask-fill">Impact</h1>
+                                <h1 class="primary-font-title has-mask-fill">Results</h1>
                                 <p>
-                                    Since launch, EkoDirect has experienced significant traction, with increased service bookings, high customer retention, and glowing user feedback. The platform has become a go-to digital assistant for thousands of Lagos residents looking for convenience without compromise.
+                                    With a unified digital platform and a trustworthy brand presence, BillBuddy is now redefining how users across Nigeria and beyond manage digital money. The platform is live, gaining traction, and delivering real value by simplifying complex transactions into a few easy taps.
                                 </p>
                                 
                             </div>
@@ -113,7 +154,7 @@
                                 <div class="next-project-caption text-align-center content-full-width height-title">
                                     <div class="next-caption-wrapper">
                                     	<div class="caption-wrapper">
-                                            <a class="next-ajax-link-project auto-trigger" data-type="page-transition" href="eskrow" data-color="#963a8d" data-firstline="Next" data-secondline="Project"></a>
+                                            <a class="next-ajax-link-project auto-trigger" data-type="page-transition" href="skinicon" data-color="#963a8d" data-firstline="Next" data-secondline="Project"></a>
                                             <div class="next-caption">
                                             	<div class="next-hero-subtitle"><span></span></div>                                                                                         
                                                 <div class="next-hero-title primary-font-title"><span>next case</span></div>                                                
@@ -126,7 +167,7 @@
                                 
                                 <div class="next-project-image-wrapper">
                                     <div class="next-project-image">
-                                        <div class="next-project-image-bg" style="background-image:url(images/02hero.jpg)"></div>
+                                        <div class="next-project-image-bg" style="background-image:url(../assets/images/hero/skinicon-hero.jpg)"></div>
                                     </div>            
                                 </div>
                                 

@@ -66,16 +66,16 @@
                                                 	<div class="curtains" data-curtain-color="#7e5041">
                                                     	<div class="curtain-row"></div>
                                                     </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project01.html"></a>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/eritage"></a>
                                                     <div class="section-image trigger-item-link">
-                                                        <img src="images/01hero.jpg" class="item-image grid__item-img" alt="">
+                                                        <img src="./assets/images/hero/eritage-hero.jpg" class="item-image grid__item-img" alt="">
                                                     </div>                                                
-                                                    <img src="images/01hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                    <img src="./assets/images/hero/eritage-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                 </div>
                                                 <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>White Liners</span></div>                                                    
+                                                    <div class="slide-title"><span>Eritage Africa</span></div>                                                    
                                                     <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Photography</span></div>                                             
+                                                    <div class="slide-cat"><span>Web Development</span></div>                                             
                                                 </div>
                                             </div>
                                         </div>
@@ -86,16 +86,16 @@
                                                 	<div class="curtains" data-curtain-color="#0c0c0c">
                                                     	<div class="curtain-row"></div>
                                                     </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project02.html"></a>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/ekodirect"></a>
                                                     <div class="section-image  trigger-item-link">
-                                                        <img src="images/02hero.jpg" class="item-image grid__item-img" alt="">
+                                                        <img src="./assets/images/hero/ekodirect-hero.jpg" class="item-image grid__item-img" alt="">
                                                     </div>                                                
-                                                    <img src="images/02hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                    <img src="./assets/images/hero/ekodirect-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                 </div>
                                                 <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>Green Audio</span></div>
+                                                    <div class="slide-title"><span>EkóDirect</span></div>
                                                     <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Product Design</span></div>                                          
+                                                    <div class="slide-cat"><span>Web Development</span></div>                                          
                                                 </div>
                                             </div>
                                         </div>
@@ -106,101 +106,16 @@
                                                 	<div class="curtains" data-curtain-color="#fe6720">
                                                     	<div class="curtain-row"></div>
                                                     </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project03.html"></a>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/eskrow"></a>
                                                     <div class="section-image trigger-item-link">
-                                                        <img src="images/03hero.jpg" class="item-image grid__item-img" alt="">
+                                                        <img src="./assets/images/hero/eskrow-hero.jpg" class="item-image grid__item-img" alt="">
                                                     </div>                                                
-                                                    <img src="images/03hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                    <img src="./assets/images/hero/eskrow-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                 </div>
                                                 <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>Nanotech</span></div>
+                                                    <div class="slide-title"><span>Eskrow</span></div>
                                                     <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Photography</span></div>                                             
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="clapat-item vertical-parallax video-filter">
-                                            <div class="slide-inner trigger-item change-header" data-centerLine="OPEN">                                                    
-                                                <div class="img-mask">
-                                                	<div class="curtains" data-curtain-color="#d4d4d4">
-                                                    	<div class="curtain-row"></div>
-                                                    </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project04.html"></a>
-                                                    <div class="section-image trigger-item-link">
-                                                        <img src="images/04hero.jpg" class="item-image grid__item-img" alt="">
-                                                        <div class="hero-video-wrapper">
-                                                            <video loop muted class="bgvid">
-                                                                <source src="http://clapat.ro/themes/montoya/images/04hero.mp4" type="video/mp4">
-                                                            </video>
-                                                        </div>
-                                                    </div>                                                
-                                                    <img src="images/04hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
-                                                </div>
-                                                <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>Cool Dude</span></div>
-                                                    <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Video Production</span></div>                                        
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="clapat-item design-filter">
-                                            <div class="slide-inner align-top trigger-item" data-centerLine="OPEN">
-                                                <div class="img-mask">
-                                                	<div class="curtains" data-curtain-color="#0c0c0c">
-                                                    	<div class="curtain-row"></div>
-                                                    </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project05.html"></a>
-                                                    <div class="section-image trigger-item-link">
-                                                        <img src="images/05hero.jpg" class="item-image grid__item-img" alt="">                                                            
-                                                    </div>                                                
-                                                    <img src="images/05hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
-                                                </div>
-                                                <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>Sphere Digital</span></div>
-                                                    <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Graphic Design</span></div>                                         
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="clapat-item photo-filter">
-                                            <div class="slide-inner trigger-item" data-centerLine="OPEN">
-                                                <div class="img-mask">
-                                                	<div class="curtains" data-curtain-color="#7f4c2c">
-                                                    	<div class="curtain-row"></div>
-                                                    </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project06.html"></a>
-                                                    <div class="section-image trigger-item-link">
-                                                        <img src="images/06hero.jpg" class="item-image grid__item-img" alt="">
-                                                    </div>                                                
-                                                    <img src="images/06hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
-                                                </div>
-                                                <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>Leather Chair</span></div>
-                                                    <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Product Design</span></div>                                        
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
-                                        <div class="clapat-item design-filter">
-                                            <div class="slide-inner trigger-item change-header" data-centerLine="OPEN">
-                                                <div class="img-mask">
-                                                	<div class="curtains" data-curtain-color="#939393">
-                                                    	<div class="curtain-row"></div>
-                                                    </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project07.html"></a>
-                                                    <div class="section-image trigger-item-link">
-                                                        <img src="images/07hero.jpg" class="item-image grid__item-img" alt="">
-                                                    </div>                                                
-                                                    <img src="images/07hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
-                                                </div>
-                                                <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>Folding Phone</span></div>
-                                                    <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Graphic Design</span></div>                                          
+                                                    <div class="slide-cat"><span>Branding</span></div>                                             
                                                 </div>
                                             </div>
                                         </div>
@@ -211,16 +126,96 @@
                                                 	<div class="curtains" data-curtain-color="#6e8a94">
                                                     	<div class="curtain-row"></div>
                                                     </div>
-                                                    <a class="slide-link" data-type="page-transition" href="project08.html"></a>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/billbuddy"></a>
                                                     <div class="section-image trigger-item-link">
-                                                        <img src="images/08hero.jpg" class="item-image grid__item-img" alt="">
+                                                        <img src="./assets/images/hero/billbuddy-hero.jpg" class="item-image grid__item-img" alt="">
                                                     </div>                                                
-                                                    <img src="images/08hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                    <img src="./assets/images/hero/billbuddy-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
                                                 </div>
                                                 <div class="slide-caption trigger-item-link-secondary">
-                                                    <div class="slide-title"><span>Enclosure</span></div>
+                                                    <div class="slide-title"><span>BillBuddy</span></div>
                                                     <div class="slide-date"><span>2024</span></div>
-                                                    <div class="slide-cat"><span>Photography</span></div>                                            
+                                                    <div class="slide-cat"><span>Branding & Web Development</span></div>                                            
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="clapat-item design-filter">
+                                            <div class="slide-inner align-top trigger-item" data-centerLine="OPEN">
+                                                <div class="img-mask">
+                                                	<div class="curtains" data-curtain-color="#0c0c0c">
+                                                    	<div class="curtain-row"></div>
+                                                    </div>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/skinicon"></a>
+                                                    <div class="section-image trigger-item-link">
+                                                        <img src="./assets/images/hero/skinicon-hero.jpg" class="item-image grid__item-img" alt="">                                                            
+                                                    </div>                                                
+                                                    <img src="./assets/images/hero/skinicon-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                </div>
+                                                <div class="slide-caption trigger-item-link-secondary">
+                                                    <div class="slide-title"><span>Skin Icon</span></div>
+                                                    <div class="slide-date"><span>2024</span></div>
+                                                    <div class="slide-cat"><span>Branding & Web Development</span></div>                                         
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="clapat-item photo-filter">
+                                            <div class="slide-inner trigger-item" data-centerLine="OPEN">
+                                                <div class="img-mask">
+                                                	<div class="curtains" data-curtain-color="#7f4c2c">
+                                                    	<div class="curtain-row"></div>
+                                                    </div>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/pixpectiv"></a>
+                                                    <div class="section-image trigger-item-link">
+                                                        <img src="./assets/images/hero/pixpectiv-hero.jpg" class="item-image grid__item-img" alt="">
+                                                    </div>                                                
+                                                    <img src="./assets/images/hero/pixpectiv-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                </div>
+                                                <div class="slide-caption trigger-item-link-secondary">
+                                                    <div class="slide-title"><span>Pixpectiv</span></div>
+                                                    <div class="slide-date"><span>2024</span></div>
+                                                    <div class="slide-cat"><span>Web Development</span></div>                                        
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="clapat-item design-filter">
+                                            <div class="slide-inner trigger-item change-header" data-centerLine="OPEN">
+                                                <div class="img-mask">
+                                                	<div class="curtains" data-curtain-color="#939393">
+                                                    	<div class="curtain-row"></div>
+                                                    </div>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/phfw"></a>
+                                                    <div class="section-image trigger-item-link">
+                                                        <img src="./assets/images/hero/phfw-hero.jpg" class="item-image grid__item-img" alt="">
+                                                    </div>                                                
+                                                    <img src="./assets/images/hero/phfw-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                </div>
+                                                <div class="slide-caption trigger-item-link-secondary">
+                                                    <div class="slide-title"><span>PH Fashion Week</span></div>
+                                                    <div class="slide-date"><span>2022</span></div>
+                                                    <div class="slide-cat"><span>Web Development</span></div>                                          
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="clapat-item vertical-parallax photo-filter">
+                                             <div class="slide-inner trigger-item" data-centerLine="OPEN">
+                                                <div class="img-mask">
+                                                	<div class="curtains" data-curtain-color="#6e8a94">
+                                                    	<div class="curtain-row"></div>
+                                                    </div>
+                                                    <a class="slide-link" data-type="page-transition" href="portfolio/glajoe"></a>
+                                                    <div class="section-image trigger-item-link">
+                                                        <img src="./assets/images/hero/glajoe-hero.jpg" class="item-image grid__item-img" alt="">
+                                                    </div>                                                
+                                                    <img src="./assets/images/hero/glajoe-hero.jpg" class="grid__item-img grid__item-img--large" alt="">                              
+                                                </div>
+                                                <div class="slide-caption trigger-item-link-secondary">
+                                                    <div class="slide-title"><span>Glajoe</span></div>
+                                                    <div class="slide-date"><span>2020</span></div>
+                                                    <div class="slide-cat"><span>Web Development</span></div>                                            
                                                 </div>
                                             </div>
                                         </div>                                                
@@ -229,13 +224,9 @@
                                     <!-- ClaPat Portfolio -->
                                     
                                 </div>                                                           
-                            </div>    
-                            <!-- Showcase Portfolio Holder -->
-                                                            
+                            </div>
                         
                         </div>
-                        <!--/Main Page Content -->
-                        
                         
                         <div id="page-nav">
                             <div class="page-nav-wrap">
