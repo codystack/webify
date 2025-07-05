@@ -306,8 +306,8 @@
 	}
 	
 	.light-content .light-section li {
-		color: #444;
-		border: 1px solid rgb(0 0 0 / 25%);
+		color: #686868;
+		/*border: 1px solid rgb(0 0 0 / 25%); */
 	}
 	
 	figure {

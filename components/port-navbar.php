@@ -2,7 +2,7 @@
                 <div id="header-container">
                 
                 <div id="logo" class="hide-ball">
-                    <a class="ajax-link" data-type="page-transition" href="./">
+                    <a class="ajax-link" data-type="page-transition" href="../">
                         <img class="black-logo" src="../assets/images/logo-dark.svg" alt="Logo" style="width: 150px">
                         <img class="white-logo" src="../assets/images/logo-white.svg" alt="Logo" style="width: 150px">
                     </a>

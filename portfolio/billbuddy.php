@@ -12,19 +12,20 @@
                         <div id="hero-styles">
                             <div id="hero-caption" class="content-full-width height-title">
                                 <div class="inner">   
-                                    <h1 class="hero-title caption-timeline primary-font-title"><span>EkóDirect</span></h1>
+                                    <h1 class="hero-title caption-timeline primary-font-title"><span>BillBuddy</span></h1>
                                 </div>
                             </div>
                             <div id="hero-description" class="content-full-width">
                                 <div class="inner">
-                                	<p class="bigger has-opacity">EkoDirect approached Webify with a bold vision — to create a unified digital ecosystem that simplifies daily living for busy professionals, families, and entrepreneurs across Nigeria. Their goal was to merge multiple essential services into a single, intuitive platform that could provide reliability, trust, and efficiency on demand.</p>
+                                	<p class="bigger has-opacity">BillBuddy came to Webify with a bold ambition: to streamline how everyday users sell digital assets and manage bill payments. From crypto trading and gift card redemption to utilities, betting wallets, and mobile top-ups — the platform had to be powerful yet intuitive, secure yet simple.</p>
+                                    <p class="bigger has-opacity">We partnered with the BillBuddy team to bring this vision to life — from brand identity all the way to a robust, user-centric mobile and web app.</p>
                                     <br>
                                     <p class="bigger no-margins">Year</p>
                                     <p class="has-opacity">2024</p>
                                     <p class="bigger no-margins">Scope of work</p>
-                                    <p class="has-opacity no-margins">Web Design & Development</p>                                                                      
+                                    <p class="has-opacity no-margins">Brand Identity, Web/Mobile App Development</p>                                                                      
                                     <hr> 
-                                    <p class="has-animation">[ <a class="link-text" target="_blank" href="https://ekodirect.com.ng/"><span class="link" data-hover="View Website">View Website</span></a> ]</p>
+                                    <p class="has-animation">[ <a class="link-text" target="_blank" href="https://billbuddy.africa/"><span class="link" data-hover="View Website">View Website</span></a> ]</p>
                                 </div>
                             </div>
                             <div id="hero-footer">
@@ -49,7 +50,7 @@
 
                     <div id="hero-image-wrapper">
                     	<div id="hero-background-layer" class="parallax-scroll-image">
-                            <div id="hero-bg-image" style="background-image:url(../assets/images/hero/ekodirect-hero.jpg)"></div>
+                            <div id="hero-bg-image" style="background-image:url(../assets/images/hero/billbuddy-hero.jpg)"></div>
                         </div>
                     </div>
 
@@ -125,7 +126,7 @@
                                 
                                 <div class="next-project-image-wrapper">
                                     <div class="next-project-image">
-                                        <div class="next-project-image-bg" style="background-image:url(../assets/images/hero/eskrow-hero.jpg)"></div>
+                                        <div class="next-project-image-bg" style="background-image:url(images/02hero.jpg)"></div>
                                     </div>            
                                 </div>
                                 

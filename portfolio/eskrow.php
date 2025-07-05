@@ -6,28 +6,23 @@
 
             <div id="content-scroll">
             
-            
-                <!-- Main -->
                 <div id="main">
-                
-                    <!-- Hero Section -->
+                    
                     <div id="hero" class="has-image">
                         <div id="hero-styles">
                             <div id="hero-caption" class="content-full-width height-title">
                                 <div class="inner">   
-                                    <h1 class="hero-title caption-timeline primary-font-title"><span>White Liners</span></h1>
+                                    <h1 class="hero-title caption-timeline primary-font-title"><span>Eskrow</span></h1>
                                 </div>
                             </div>
                             <div id="hero-description" class="content-full-width">
                                 <div class="inner">
-                                	<p class="bigger has-opacity">As you navigate through the projects, you'll discover a harmonious blend of creativity and functionality, seamlessly brought to life by the dynamic capabilities of our shortcodes. Each shortcode serves as a building block, unlocking a world of possibilities for expressing your ideas and presenting your content in ways that are both visually stunning and highly engaging.  </p>
+                                	<p class="bigger has-opacity">Eskrow set out to solve one of the internet’s most pressing challenges: trust in online transactions. As a platform that holds funds in escrow until both parties fulfill their obligations, Eskrow needed more than just a logo — it needed a brand that embodied security, neutrality, and reliability. That’s where Webify came in.</p>
                                     <br>
-                                    <p class="bigger no-margins">Date</p>
-                                    <p class="has-opacity">January 2024</p>
-                                    <p class="bigger no-margins">Role</p>
-                                    <p class="has-opacity no-margins">Art Direction, Web Design, Production</p>                                                                      
-                                    <hr> 
-                                    <p class="has-animation">[ <a class="link-text" target="_blank" href="https://www.behance.net/gallery/188644629/Yioiy"><span class="link" data-hover="View Website">View Website</span></a> ]</p>
+                                    <p class="bigger no-margins">Year</p>
+                                    <p class="has-opacity">2024</p>
+                                    <p class="bigger no-margins">Scope of work</p>
+                                    <p class="has-opacity no-margins">Brand Identity, Messaging, Visual Strategy</p>
                                 </div>
                             </div>
                             <div id="hero-footer">
@@ -49,130 +44,142 @@
                     </div>
                     <div id="hero-image-wrapper">
                     	<div id="hero-background-layer" class="parallax-scroll-image">
-                            <div id="hero-bg-image" style="background-image:url(images/01hero.jpg)"></div>
+                            <div id="hero-bg-image" style="background-image:url(../assets/images/hero/eskrow-hero.jpg)"></div>
                         </div>
-                    </div>                        
-                    <!--/Hero Section -->   
-                         
+                    </div>
                     
-                    <!-- Main Content -->
+
                     <div id="main-content">
                         <div id="main-page-content">
+                                                
+                            <div class="content-row small row_padding_top light-section text-align-center" data-bgcolor="#fff">
                             
-                            
-                            <!-- Row -->
-                            <div class="content-row row_padding_top row_padding_bottom light-section change-header-color" data-bgcolor="#fff">
-                                
-                                <div class="one_half"></div>
-                                
-                                <div class="one_half last">                                
-                                   <h1 class="primary-font-title has-mask-fill">The Challenge</h1>
-                                   <p><span class="has-opacity">DEVELOPING ONLINE PRESENCES WHERE THE SOPHISTICATION OF VISUAL DESIGN MEETS THE CALCULATED SCIENCE OF PRODUCT SELLING.</span></p>
-                                </div> 
-                                
-                            </div> 
-                            <!--/Row -->
-                            
-                            
-                            <!-- Row -->
-                            <div class="content-row light-section change-header-color" data-bgcolor="#fff">
-                                
-                            	<div class="one_half vertical-parallax" data-startparallax="0" data-endparallax="0.3">
-                                    <figure>
-                                        <a href="images/projects/liners01.jpg" class="image-link"><img src="images/projects/liners01.jpg" alt="Image Title"></a>               
-                                        <figcaption>Image Caption Here</figcaption>
-                                    </figure>
-                                </div>
-                                
-                                <div class="one_half last vertical-parallax" data-startparallax="0" data-endparallax="0.15">                                
-                                    <figure>
-                                        <a href="images/projects/liners02.jpg" class="image-link"><img src="images/projects/liners02.jpg" alt="Image Title"></a>               
-                                        <figcaption>Image Caption Here</figcaption>
-                                    </figure>                                    
-                                </div>         
-                                
-                            </div> 
-                            <!--/Row -->
-                            
-                            
-                            <!-- Row -->
-                            <div class="content-row row_padding_bottom light-section change-header-color" data-bgcolor="#fff">
-                            
-                                <div class="one_half">
-                                	<h1 class="primary-font-title has-mask-fill">The Research</h1>
-                                    <p><span class="has-opacity">DESIGNING ONLINE PLATFORMS WHERE THE ARTISTRY OF VISUAL APPEAL CONVERGES WITH THE STRATEGY OF PRODUCT MARKETABILITY.</span></p>
-                                </div>
-                                
-                                <div class="one_half last"></div> 
-                                
-                            </div> 
-                            <!--/Row -->
-                            
-                            
-                            <!-- Row -->
-                            <div class="content-row full dark-section" data-bgcolor="#171717">
-                                
-                                <figure class="has-parallax">
-                                    <img src="images/projects/liners03.jpg" alt="Image Title">
-                                </figure>
-                                
-                            </div> 
-                            <!--/Row -->
-                            
-                            
-                            <!-- Row -->
-                            <div class="content-row row_padding_top light-section change-header-color text-align-center" data-bgcolor="#fff">
-                                <h1 class="primary-font-title has-mask-fill">The Solution</h1>
+                                <h1 class="primary-font-title has-mask-fill">Our Approach</h1>
                                 <p>
-                                    <span class="has-opacity">CRAFTING WEBSITES WHERE THE ELEGANCE</span>
-                                    <br class="destroy">
-                                    <span class="has-opacity">OF DESIGN INTERSECTS WITH THE SCIENCE OF SELLING PRODUCTS.</span>
+                                   We partnered with the Eskrow team to craft a brand identity that visually and emotionally communicates <b>“safe, trusted middle ground.”</b> From tone to typography, every element was created to reinforce confidence and calm in an industry often riddled with anxiety.
                                 </p>
-                                <hr><hr>                                                                
-                            </div> 
-                            <!--/Row -->
-                            
-                            
-                            <!-- Row -->
-                            <div class="content-row row_padding_bottom light-section change-header-color" data-bgcolor="#fff">
                                 
-                                <div class="clapat-slider-wrapper content-slider has-animation autocenter dark-cursor">
-        							<div class="clapat-slider">
-                                        <div class="clapat-slider-viewport">
-                                            <div class="clapat-slide"><div class="slide-img"><img src="images/projects/liners04.jpg" alt="Image Title"></div></div>
-                                            <div class="clapat-slide"><div class="slide-img"><img src="images/projects/liners05.jpg" alt="Image Title"></div></div>
-                                            <div class="clapat-slide"><div class="slide-img"><img src="images/projects/liners06.jpg" alt="Image Title"></div></div>
-                                        </div>
+                                <hr><hr>
+                                
+                            </div>
+
+
+                            <div class="content-row row_padding_bottom text-align-center full light-section change-header-color" data-bgcolor="#fff">                          
+                                
+                                <div class="moving-gallery fw-gallery random-sizes">
+                                    <ul class="wrapper-gallery">
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/1.jpg">                                            
+                                        </li>
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/2.jpg">
+                                        </li>
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/3.jpg">
+                                        </li>
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/4.jpg">
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                            </div> 
+                            
+                            <div class="content-row small row_padding_bottom light-section" data-bgcolor="#fff">
+                                <h1 class="primary-font-title has-mask-fill">Key Branding Elements Delivered</h1>
+                                <p>
+                                    <hr>
+                                    <b>Logo Design</b><br /> A bold, modern emblem that evokes a handshake across a divide — a symbol of trust, balance, and connection.<br />
+                                    <hr>
+                                    <b>Brand Messaging</b><br /> We helped shape Eskrow’s tone of voice around metaphors of bridges, vaults, and handshakes — making the complex nature of escrow services feel approachable and reassuring.<br />
+                                    <hr>
+                                    <b>Color & Typography System</b><br /> A sophisticated palette that blends tech-forward blue tones with warm accents, paired with modern, legible typography for digital-first applications.<br />
+                                    <hr>
+                                    <b>Visual Concept Direction</b><br /> We conceptualized Eskrow’s core visual story: “Two hands clasped across a wide chasm, trust blooming like a resilient flower between them.” This guided imagery, iconography, and digital mockups.
+                                </p>
+                            </div> 
+
+
+                            <div class="content-row row_padding_bottom text-align-center full light-section change-header-color" data-bgcolor="#fff">
+                            
+                                <div class="moving-gallery bw-gallery random-sizes">
+                                    <ul class="wrapper-gallery">
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/5.jpg">                                            
+                                        </li>
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/6.jpg">
+                                        </li>
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/7.jpg">
+                                        </li>
+                                        <li>
+                                            <img src="../assets/images/projects/eskrow/8.jpg">
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                            </div>
+
+                            
+                            <div class="content-row text-align-center row_padding_bottom row_padding_top light-section change-header-color" data-bgcolor="#eee">
+                                
+                                
+                                <div class="pinned-gallery">
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/1.jpg" alt="Image Title">
                                     </div>
-                                    
-                                    <div class="clapat-controls">
-                                        <div class="clapat-button-next slider-button-next"></div>
-                                        <div class="clapat-button-prev slider-button-prev"></div>
-                                        <div class="clapat-pagination"></div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/2.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/3.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/4.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/5.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/6.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/7.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/8.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/9.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/10.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/eskrow/18.jpg" alt="Image Title">
                                     </div>
                                 </div>
                                 
                             </div> 
-                            <!--/Row -->
-                        
                         
                         </div>
-                        <!--/Main Page Content --> 
                         
-                        
-                        
-                        <!-- Project Navigation --> 
                         <div id="project-nav" class="">
                             <div class="next-project-wrap">
                                 
-                                <p class="all-works"><a class="link-text ajax-link" data-type="page-transition" href="index-showcase-grid.html"><span class="link" data-hover="View All Works">View All Works</span></a></p>
+                                <p class="all-works">
+                                    <a class="link-text ajax-link" data-type="page-transition" href="portfolio">
+                                        <span class="link" data-hover="View All Works">View All Works</span>
+                                    </a>
+                                </p>
                                 
                                 <div class="next-project-caption text-align-center content-full-width height-title">
                                     <div class="next-caption-wrapper">
                                     	<div class="caption-wrapper">
-                                            <a class="next-ajax-link-project auto-trigger" data-type="page-transition" href="project02.html" data-color="#963a8d" data-firstline="Next" data-secondline="Project"></a>
+                                            <a class="next-ajax-link-project auto-trigger" data-type="page-transition" href="billbuddy" data-color="#963a8d" data-firstline="Next" data-secondline="Project"></a>
                                             <div class="next-caption">
-                                            	<div class="next-hero-subtitle"><span></span></div>                                                                                         
+                                            	<div class="next-hero-subtitle"><span></span></div>                                                                                           
                                                 <div class="next-hero-title primary-font-title"><span>next case</span></div>                                                
                                             </div>
                                         </div>                                        
@@ -183,17 +190,14 @@
                                 
                                 <div class="next-project-image-wrapper">
                                     <div class="next-project-image">
-                                        <div class="next-project-image-bg" style="background-image:url(images/02hero.jpg)"></div>
+                                        <div class="next-project-image-bg" style="background-image:url(../assets/images/hero/billbuddy-hero.jpg)"></div>
                                     </div>            
                                 </div>
                                 
                             </div>
-                        </div>      
-                        <!--/Project Navigation -->                                                
+                        </div>                                               
                                 
                     </div>
-                    <!--/Main Content --> 
                 </div>
-                <!--/Main --> 
                 
 <?php include "../components/port-footer.php"; ?>
