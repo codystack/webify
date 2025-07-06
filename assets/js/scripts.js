@@ -2460,7 +2460,7 @@ Function Showcase Gallery
 		JustifiedGrid();
 		Lightbox();
 		PlayVideo();
-		ContactForm();
+		// ContactForm();
 		ContactMap();
 		CustomFunction();
 		
