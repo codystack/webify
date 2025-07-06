@@ -17,7 +17,8 @@
                             </div>
                             <div id="hero-description" class="content-full-width">
                                 <div class="inner">
-                                	<p class="bigger has-opacity">EkoDirect approached Webify with a bold vision — to create a unified digital ecosystem that simplifies daily living for busy professionals, families, and entrepreneurs across Nigeria. Their goal was to merge multiple essential services into a single, intuitive platform that could provide reliability, trust, and efficiency on demand.</p>
+                                	<p class="bigger has-opacity">In a saturated skincare market full of noise, Skin Icon had a clear goal: to become the trusted destination for high-quality, authentic skincare products from around the world. From top-tier Korean routines to cult US and UK brands, Skin Icon needed a brand and digital storefront that radiated trust, clarity, and care.</p>
+                                    <p class="bigger has-opacity">Webify was brought on board to translate this vision into a full brand identity and seamless online experience.</p>
                                     <br>
                                     <p class="bigger no-margins">Year</p>
                                     <p class="has-opacity">2024</p>
@@ -56,43 +57,144 @@
                     <div id="main-content">
                         <div id="main-page-content">
 
-                            <div class="content-row small row_padding_top light-section text-align-center" data-bgcolor="#fff">
-                            
-                                <h1 class="primary-font-title has-mask-fill">Our Solution</h1>
-                                <p>
-                                    Webify partnered closely with EkoDirect to design and develop a multi-platform solution that brings together a suite of lifestyle services under one digital roof. From brand identity to platform architecture, our team delivered a scalable ecosystem that offers seamless user experiences across web and mobile.
-                                </p>
+                            <div class="content-row row_padding_top row_padding_bottom light-section change-header-color" data-bgcolor="#fff">
                                 
-                                <hr><hr>
+                                <div class="pinned-section">
+                                    <div class="scrolling-element left">
+                                        <figure class="has-animation">
+                                            <a href="../assets/images/projects/skinicon/web1.png" class="image-link"><img src="../assets/images/projects/skinicon/web1.png" alt="Image Title"></a>
+                                        </figure>
+                                    </div>
+                                    
+                                    <div class="pinned-element right">
+                                        <h1 class="primary-font-title has-mask-fill">Our Role</h1>
+                                   		<p>We collaborated with the Skin Icon team to build a brand and platform that reflects their commitment to genuine skincare, product education, and customer empowerment. From tone of voice to layout, every detail was crafted to inspire trust and beauty without compromise.</p>
+                                        <h5 style="margin-bottom: 0px">Brand Story & Identity</h5>
+                                        <p>
+                                            Skin Icon’s story is rooted in the belief that everyone deserves access to effective, safe, and diverse skincare. We brought this mission to life through:<br />
+                                            <hr>
+                                            <b>Logo & Visual Identity</b><br />
+                                            A minimalist yet elegant mark that evokes purity, confidence, and timeless beauty.<br />
+                                            <hr>
+                                            <b>Color System & Typography</b><br />
+                                            Soft, clean tones paired with editorial-inspired typography to reflect both scientific credibility and luxury aesthetics.<br />
+                                            <hr>
+                                            <b>Brand Messaging</b><br />
+                                            We crafted a human-centered voice focused on transparency, education, and confidence — emphasizing phrases like “authentic skincare from trusted sources” and “feel confident in your skin.”
+                                        </p>
+                                    </div>
+                                </div>                                
                                 
-                            </div>
+                            </div> 
 
 
-                            <div class="content-row text-align-center light-section change-header-color" data-bgcolor="#fff">
+                            <div class="content-row full dark-section" data-bgcolor="#171717">
                                 
-                                <div class="pinned-gallery">
-                                    <div class="pinned-image">
-                                        <img src="../assets/images/projects/ekodirect/eko01.jpg" alt="Image Title">
+                                <figure class="has-parallax has-parallax-content" data-delay="100">
+                                    <img src="../assets/images/projects/skinicon/parralex.jpg" alt="Image Title">
+                                    <div class="parallax-image-content content-max-width text-align-center">
+                                    	<div class="outer">
+                                            <div class="inner">                                                                                                
+                                                
+                                                <h2 class="big-title has-mask-fill primary-font-title">Creating a Trusted Global Skincare Experience</h2>
+                                                
+                                            </div>
+                                    	</div>
                                     </div>
-                                    <div class="pinned-image">
-                                        <img src="../assets/images/projects/ekodirect/eko02.jpg" alt="Image Title">
+                                </figure>
+                                
+                            </div> 
+
+
+                            <div class="content-row row_padding_top row_padding_bottom light-section change-header-color" data-bgcolor="#fff">                                
+                                
+                                <div class="pinned-section">
+                                    <div class="pinned-element left">
+                                        <h1 class="primary-font-title has-mask-fill">Results</h1>
+                                   		<p>
+                                            The new Skin Icon brand and platform have helped build a loyal, growing community of skincare lovers who trust the source and quality of what they buy. With an elegant brand presence and user-friendly website, Skin Icon is fast becoming a go-to name for curated global skincare in Nigeria and beyond.
+                                        </p>
                                     </div>
-                                    <div class="pinned-image">
-                                        <img src="../assets/images/projects/ekodirect/eko03.jpg" alt="Image Title">
+                                    
+                                    <div class="scrolling-element right">
+                                        <figure class="has-animation">
+                                            <a href="../assets/images/projects/skinicon/web2.png" class="image-link"><img src="../assets/images/projects/skinicon/web2.png" alt="Image Title"></a>
+                                        </figure>
                                     </div>
                                 </div>
                                 
                             </div>
 
 
-                            <div class="content-row small row_padding_bottom light-section change-header-color text-align-center" data-bgcolor="#fff">
+                            <div class="content-row row_padding_bottom light-section" data-bgcolor="#fff">
                                 
-                                <hr><hr>
-                                
-                                <h1 class="primary-font-title has-mask-fill">Impact</h1>
-                                <p>
-                                    Since launch, EkoDirect has experienced significant traction, with increased service bookings, high customer retention, and glowing user feedback. The platform has become a go-to digital assistant for thousands of Lagos residents looking for convenience without compromise.
-                                </p>
+                                <div class="clapat-slider-wrapper content-slider has-animation autocenter dark-cursor">
+        							<div class="clapat-slider">
+                                        <div class="clapat-slider-viewport">
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/1.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/2.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/3.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/4.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/5.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/6.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/7.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/8.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/9.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/10.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                            <div class="clapat-slide">
+                                                <div class="slide-img">
+                                                    <img src="../assets/images/projects/skinicon/11.jpg" alt="Image Title">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="clapat-controls">
+                                        <div class="clapat-button-next slider-button-next"></div>
+                                        <div class="clapat-button-prev slider-button-prev"></div>
+                                        <div class="clapat-pagination"></div>
+                                    </div>
+                                </div>
                                 
                             </div>
             
@@ -112,7 +214,7 @@
                                 <div class="next-project-caption text-align-center content-full-width height-title">
                                     <div class="next-caption-wrapper">
                                     	<div class="caption-wrapper">
-                                            <a class="next-ajax-link-project auto-trigger" data-type="page-transition" href="eskrow" data-color="#963a8d" data-firstline="Next" data-secondline="Project"></a>
+                                            <a class="next-ajax-link-project auto-trigger" data-type="page-transition" href="pixpectiv" data-color="#963a8d" data-firstline="Next" data-secondline="Project"></a>
                                             <div class="next-caption">
                                             	<div class="next-hero-subtitle"><span></span></div>                                                                                         
                                                 <div class="next-hero-title primary-font-title"><span>next case</span></div>                                                
@@ -125,7 +227,7 @@
                                 
                                 <div class="next-project-image-wrapper">
                                     <div class="next-project-image">
-                                        <div class="next-project-image-bg" style="background-image:url(../assets/images/hero/eskrow-hero.jpg)"></div>
+                                        <div class="next-project-image-bg" style="background-image:url(../assets/images/hero/pixpectiv-hero.jpg)"></div>
                                     </div>            
                                 </div>
                                 
