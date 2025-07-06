@@ -126,73 +126,41 @@
                             </div>
 
 
-                            <div class="content-row row_padding_bottom light-section" data-bgcolor="#fff">
+                            <div class="content-row text-align-center row_padding_bottom light-section change-header-color" data-bgcolor="#fff">
                                 
-                                <div class="clapat-slider-wrapper content-slider has-animation autocenter dark-cursor">
-        							<div class="clapat-slider">
-                                        <div class="clapat-slider-viewport">
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/1.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/2.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/3.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/4.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/5.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/6.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/7.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/8.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/9.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/10.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                            <div class="clapat-slide">
-                                                <div class="slide-img">
-                                                    <img src="../assets/images/projects/skinicon/11.jpg" alt="Image Title">
-                                                </div>
-                                            </div>
-                                        </div>
+                                <div class="pinned-gallery">
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/1.jpg" alt="Image Title">
                                     </div>
-                                    
-                                    <div class="clapat-controls">
-                                        <div class="clapat-button-next slider-button-next"></div>
-                                        <div class="clapat-button-prev slider-button-prev"></div>
-                                        <div class="clapat-pagination"></div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/2.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/3.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/4.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/5.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/6.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/7.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/8.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/9.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/10.jpg" alt="Image Title">
+                                    </div>
+                                    <div class="pinned-image">
+                                        <img src="../assets/images/projects/skinicon/11.jpg" alt="Image Title">
                                     </div>
                                 </div>
                                 
